@@ -1,5 +1,7 @@
-<h3 align="center">🤫🤫🔥</h3>
-<h4 align="center">bulenca bulenca bulenca</h4>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bulenca&show_icons=true&locale=en&layout=compact" alt="bulenca" /></p>
+<h1 align="center">bulenca</h1>
+<center>
+    <div style="display: flex;align-items: start;">
+        <img src="https://github-readme-stats-omega-five-73.vercel.app/api/top-langs/?username=bulenca&theme=tokyonight"/>
+        <img src="https://streak-stats.demolab.com/?user=bulenca&theme=dark&hide_total_contributions=true"/>
+    </div>
+</center>
