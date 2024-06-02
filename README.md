@@ -1,4 +1,4 @@
-<h1 align="center">bulenca</h1>
+<h1 align="center">ｂｕｌｅｎｃａ</h1>
 <center>
     <h4 align="center">🤫🤫🤫</h4>
     <div style="display: flex;align-items: start;">
